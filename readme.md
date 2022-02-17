@@ -4,24 +4,23 @@ The task is to request urls and find the top **3** most frequently occuring word
 The task is to find the occurences of all the words in a text file and display them in a decreasing order of their frequency across all the urls.
 # Setup and Installations:
 
-### Creating a virtual environment and activating it.
-
-#### Run the following from the terminal from within the noknok_cc folder 
 
 
-**These commands are for a linux system. The commands were run on ubuntu 20.04 version.**
 
-#### 1) Run the following commands from the command line.
+**These commands are for a linux system. The commands were run on ubuntu 20.04 version. The text editor was vscode.**
+
+#### 1) Run the following commands from the command line and directory noknok_cc.
 ```
-sudo apt install python3-venv
-python3 -m venv env
-source env/bin/activate
-pip install -r requirements.txt
+$ sudo apt install python3-venv
+$ python3 -m venv env
+$ source env/bin/activate
+$ pip install -r requirements.txt
 ```
 **Make sure you run the following command inside the noknok_cc folder which is the zipped file**
 
-#### 2) Select the interpreter by going to view->command palette->select interpreter.
-**Now select the python interpreter that is corresponding to your virtual environment.**
+#### 2) Select the interpreter by going to 
+**view->command palette->select interpreter**
+*Now select the python interpreter that is corresponding to your virtual environment.*
 
 # Folder Structure:
 noknok_cc
@@ -47,6 +46,11 @@ To run the program after the libraries have been installed run the following com
 ```
 $ python main.py --url_file <path_to_your_url_file> --word_file  <path_to_your_word_file>
 ```
+
+# References used:
+https://docs.python.org/3/tutorial/errors.html
+https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
+https://pip.pypa.io/en/stable/cli/pip_freeze/
 
 
 
