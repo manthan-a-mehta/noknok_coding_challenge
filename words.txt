@@ -1,0 +1,12 @@
+linear
+machine 
+learning
+regression
+regularization
+python
+logistic
+model
+input
+output
+regularisation
+algorithms

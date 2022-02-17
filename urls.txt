@@ -1,0 +1,5 @@
+https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a
+https://www.analyticsvidhya.com/blog/2021/11/study-of-regularization-techniques-of-linear-model-and-its-roles/
+https://blog.dataiku.com/top-machine-learning-algorithms-how-they-work-in-plain-english-1
+https://www.sas.com/en_us/insights/analytics/machine-learning.html#:~:text=Machine%20learning%20is%20a%20method,decisions%20with%20minimal%20human%20intervention.
