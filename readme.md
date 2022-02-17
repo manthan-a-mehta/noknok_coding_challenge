@@ -23,7 +23,7 @@ $ pip install -r requirements.txt
 *Now select the python interpreter that is corresponding to your virtual environment.*
 
 # Folder Structure:
-noknok_cc
+noknok_cc <br />
  ┣ utils <br />
  ┃ ┣ helpers.py <br />
  ┃ ┗ output_utils.py <br />
