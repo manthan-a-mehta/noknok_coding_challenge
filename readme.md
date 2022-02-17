@@ -24,14 +24,14 @@ $ pip install -r requirements.txt
 
 # Folder Structure:
 noknok_cc
- ┣ utils
- ┃ ┣ helpers.py
- ┃ ┗ output_utils.py
- ┣ Coding Challenge 2022.pdf
- ┣ main.py
- ┣ readme.md
- ┣ urls.txt
- ┗ words.txt
+ ┣ utils <br />
+ ┃ ┣ helpers.py <br />
+ ┃ ┗ output_utils.py <br />
+ ┣ Coding Challenge 2022.pdf <br />
+ ┣ main.py <br />
+ ┣ readme.md <br />
+ ┣ urls.txt <br />
+ ┗ words.txt <br />
  
  The files **helpers.py** and **output_utils.py** contain the core functionality of the project. Description of each of the functions is given in the files itself. The files **urls.txt** contains the list of urls and **words.txt** contains the list of words to be queried.
  
@@ -48,9 +48,9 @@ $ python main.py --url_file <path_to_your_url_file> --word_file  <path_to_your_w
 ```
 
 # References used:
-https://docs.python.org/3/tutorial/errors.html
-https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
-https://pip.pypa.io/en/stable/cli/pip_freeze/
+https://docs.python.org/3/tutorial/errors.html <br />
+https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/ <br />
+https://pip.pypa.io/en/stable/cli/pip_freeze/ <br /> 
 
 
 
